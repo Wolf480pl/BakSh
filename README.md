@@ -3,11 +3,11 @@ Simple script to backup VPS configuration files
 
 The script copies and packs into a timestamped tar.xz file configuration directories of:
 ```
-Nginx
-Murmurd
-ZNC
+nginx
+murmurd
+znc
 ACME Tool
-SSHD
+sshd
 /home directory
 /www directory
 ```
